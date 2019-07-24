@@ -1,0 +1,23 @@
+{
+  "item1":  {"reg": "0x301A", "value": "0x10D8"},
+  "item2":  {"reg": "0x3028", "value": "0x0010"},
+  "item3":  {"reg": "0x302A", "value": "0x0008"},
+  "item4":  {"reg": "0x302C", "value": "0x0001"},
+  "item5":  {"reg": "0x302E", "value": "0x0008"},
+  "item6":  {"reg": "0x3030", "value": "0x0050"},
+  "item7":  {"reg": "0x3032", "value": "0x0000"},
+  "item8":  {"reg": "0x30B0", "value": "0x0080"},
+  "item9":  {"reg": "0x3064", "value": "0x1802"},
+  "item10": {"reg": "0x301A", "value": "0x19d8"},
+  "item11": {"reg": "0x3002", "value": "0x0000"},
+  "item12": {"reg": "0x3004", "value": "0x0000"},
+  "item13": {"reg": "0x3006", "value": "0x03c3"},
+  "item14": {"reg": "0x3008", "value": "0x04FF"},
+  "item15": {"reg": "0x300A", "value": "0x03E5"},
+  "item16": {"reg": "0x300C", "value": "0x0672"},
+  "item17": {"reg": "0x3012", "value": "0x0014"},
+  "item18": {"reg": "0x3014", "value": "0x0009"},
+  "item19": {"reg": "0x30A6", "value": "0x0001"},
+  "item20": {"reg": "0x3040", "value": "0x0000"},
+  "item21": {"reg": "0x305e", "value": "0x0080"}
+}

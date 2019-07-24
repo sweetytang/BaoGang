@@ -1,0 +1,35 @@
+[2019-07-09 10:34:02.906](thread id:  11452) <Debug   > -INFO: JAVI Closed. 
+[2019-07-09 10:37:10.132](thread id:  14852) <Debug   > -INFO : JAVI  "2.2.1"  Start... 
+[2019-07-09 14:16:24.102](thread id:  14852) <Debug   > -INFO: JAVI Closed. 
+[2019-07-09 14:22:00.172](thread id:  14836) <Debug   > -INFO : JAVI  "2.2.1"  Start... 
+[2019-07-09 14:26:51.514](thread id:  14836) <Debug   > -INFO: JAVI Closed. 
+[2019-07-09 14:27:09.202](thread id:  17952) <Debug   > -INFO : JAVI  "2.2.1"  Start... 
+[2019-07-09 14:31:10.682](thread id:  17952) <Warning > ShellExecute 'file:///C:/Users/Administrator/Desktop/JAVI-2.2.0/images' failed (error 2). 
+[2019-07-09 14:31:13.554](thread id:  17952) <Warning > ShellExecute 'file:///C:/Users/Administrator/Desktop/JAVI-2.2.0/images' failed (error 2). 
+[2019-07-09 14:31:15.574](thread id:  17952) <Warning > ShellExecute 'file:///C:/Users/Administrator/Desktop/JAVI-2.2.0/images' failed (error 2). 
+[2019-07-09 14:31:15.750](thread id:  17952) <Warning > ShellExecute 'file:///C:/Users/Administrator/Desktop/JAVI-2.2.0/images' failed (error 2). 
+[2019-07-09 14:31:15.928](thread id:  17952) <Warning > ShellExecute 'file:///C:/Users/Administrator/Desktop/JAVI-2.2.0/images' failed (error 2). 
+[2019-07-09 14:31:16.141](thread id:  17952) <Warning > ShellExecute 'file:///C:/Users/Administrator/Desktop/JAVI-2.2.0/images' failed (error 2). 
+[2019-07-09 14:31:17.933](thread id:  17952) <Warning > ShellExecute 'file:///C:/Users/Administrator/Desktop/JAVI-2.2.0/images' failed (error 2). 
+[2019-07-09 14:31:19.183](thread id:  17952) <Warning > ShellExecute 'file:///C:/Users/Administrator/Desktop/JAVI-2.2.0/images' failed (error 2). 
+[2019-07-09 14:31:19.538](thread id:  17952) <Warning > ShellExecute 'file:///C:/Users/Administrator/Desktop/JAVI-2.2.0/images' failed (error 2). 
+[2019-07-09 14:31:19.721](thread id:  17952) <Warning > ShellExecute 'file:///C:/Users/Administrator/Desktop/JAVI-2.2.0/images' failed (error 2). 
+[2019-07-09 14:31:20.753](thread id:  17952) <Debug   > -INFO: JAVI Closed. 
+[2019-07-09 14:31:31.839](thread id:  18044) <Debug   > -INFO : JAVI  "2.2.1"  Start... 
+[2019-07-09 14:31:44.301](thread id:  18044) <Warning > ShellExecute 'file:///C:/Users/Administrator/Desktop/JAVI-2.2.0/images' failed (error 2). 
+[2019-07-09 14:31:46.283](thread id:  18044) <Warning > ShellExecute 'file:///C:/Users/Administrator/Desktop/JAVI-2.2.0/images' failed (error 2). 
+[2019-07-09 14:31:46.602](thread id:  18044) <Warning > ShellExecute 'file:///C:/Users/Administrator/Desktop/JAVI-2.2.0/images' failed (error 2). 
+[2019-07-09 14:31:46.784](thread id:  18044) <Warning > ShellExecute 'file:///C:/Users/Administrator/Desktop/JAVI-2.2.0/images' failed (error 2). 
+[2019-07-09 14:31:46.995](thread id:  18044) <Warning > ShellExecute 'file:///C:/Users/Administrator/Desktop/JAVI-2.2.0/images' failed (error 2). 
+[2019-07-09 14:31:47.184](thread id:  18044) <Warning > ShellExecute 'file:///C:/Users/Administrator/Desktop/JAVI-2.2.0/images' failed (error 2). 
+[2019-07-09 14:31:47.384](thread id:  18044) <Warning > ShellExecute 'file:///C:/Users/Administrator/Desktop/JAVI-2.2.0/images' failed (error 2). 
+[2019-07-09 14:31:47.619](thread id:  18044) <Warning > ShellExecute 'file:///C:/Users/Administrator/Desktop/JAVI-2.2.0/images' failed (error 2). 
+[2019-07-09 14:31:50.703](thread id:  18044) <Warning > ShellExecute 'file:///C:/Users/Administrator/Desktop/JAVI-2.2.0/images' failed (error 2). 
+[2019-07-09 14:32:02.235](thread id:  18044) <Warning > ShellExecute 'file:///C:/Users/Administrator/Desktop/JAVI-2.2.0/images' failed (error 2). 
+[2019-07-09 14:32:02.622](thread id:  18044) <Warning > ShellExecute 'file:///C:/Users/Administrator/Desktop/JAVI-2.2.0/images' failed (error 2). 
+[2019-07-09 14:32:02.808](thread id:  18044) <Warning > ShellExecute 'file:///C:/Users/Administrator/Desktop/JAVI-2.2.0/images' failed (error 2). 
+[2019-07-09 14:32:03.114](thread id:  18044) <Warning > ShellExecute 'file:///C:/Users/Administrator/Desktop/JAVI-2.2.0/images' failed (error 2). 
+[2019-07-09 14:32:03.286](thread id:  18044) <Warning > ShellExecute 'file:///C:/Users/Administrator/Desktop/JAVI-2.2.0/images' failed (error 2). 
+[2019-07-09 14:32:03.510](thread id:  18044) <Warning > ShellExecute 'file:///C:/Users/Administrator/Desktop/JAVI-2.2.0/images' failed (error 2). 
+[2019-07-09 16:48:56.594](thread id:  18044) <Debug   > -INFO: JAVI Closed. 
+[2019-07-09 19:57:30.096](thread id:  18628) <Debug   > -INFO : JAVI  "2.2.1"  Start... 

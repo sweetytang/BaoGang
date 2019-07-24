@@ -1,0 +1,71 @@
+[2019-07-04 00:02:31.398](thread id:  11780) <Debug   > -INFO : JAVI  "2.2.1"  Start... 
+[2019-07-04 00:47:51.036](thread id:  21300) <Warning > QImage: out of memory, returning null image 
+[2019-07-04 00:47:51.095](thread id:  21300) <Warning > QImage: out of memory, returning null image 
+[2019-07-04 00:47:51.182](thread id:  21300) <Warning > QImage: out of memory, returning null image 
+[2019-07-04 00:47:51.243](thread id:  21300) <Warning > QImage: out of memory, returning null image 
+[2019-07-04 00:47:51.301](thread id:  21300) <Warning > QImage: out of memory, returning null image 
+[2019-07-04 00:47:51.330](thread id:  21300) <Warning > QImage: out of memory, returning null image 
+[2019-07-04 00:47:51.359](thread id:  21300) <Warning > QImage: out of memory, returning null image 
+[2019-07-04 00:47:51.446](thread id:  21300) <Warning > QImage: out of memory, returning null image 
+[2019-07-04 00:47:51.505](thread id:  21300) <Warning > QImage: out of memory, returning null image 
+[2019-07-04 00:47:51.563](thread id:  21300) <Warning > QImage: out of memory, returning null image 
+[2019-07-04 00:47:51.593](thread id:  21300) <Warning > QImage: out of memory, returning null image 
+[2019-07-04 00:47:51.681](thread id:  21300) <Warning > QImage: out of memory, returning null image 
+[2019-07-04 00:47:51.792](thread id:  21300) <Warning > QImage: out of memory, returning null image 
+[2019-07-04 00:47:51.840](thread id:  21300) <Warning > QImage: out of memory, returning null image 
+[2019-07-04 00:47:51.898](thread id:  21300) <Warning > QImage: out of memory, returning null image 
+[2019-07-04 00:47:51.957](thread id:  21300) <Warning > QImage: out of memory, returning null image 
+[2019-07-04 00:47:52.015](thread id:  21300) <Warning > QImage: out of memory, returning null image 
+[2019-07-04 00:47:52.074](thread id:  21300) <Warning > QImage: out of memory, returning null image 
+[2019-07-04 00:47:52.132](thread id:  21300) <Warning > QImage: out of memory, returning null image 
+[2019-07-04 00:47:54.801](thread id:  21300) <Warning > QImage: out of memory, returning null image 
+[2019-07-04 00:47:54.822](thread id:  21300) <Warning > QImage: out of memory, returning null image 
+[2019-07-04 00:47:54.851](thread id:  21300) <Warning > QImage: out of memory, returning null image 
+[2019-07-04 00:47:54.880](thread id:  21300) <Warning > QImage: out of memory, returning null image 
+[2019-07-04 00:47:54.938](thread id:  21300) <Warning > QImage: out of memory, returning null image 
+[2019-07-04 00:47:54.997](thread id:  21300) <Warning > QImage: out of memory, returning null image 
+[2019-07-04 00:47:55.000](thread id:  21300) <Warning > QImage: out of memory, returning null image 
+[2019-07-04 00:47:55.029](thread id:  21300) <Warning > QImage: out of memory, returning null image 
+[2019-07-04 00:47:55.087](thread id:  21300) <Warning > QImage: out of memory, returning null image 
+[2019-07-04 00:47:56.742](thread id:  21300) <Warning > QImage: out of memory, returning null image 
+[2019-07-04 00:47:56.801](thread id:  21300) <Warning > QImage: out of memory, returning null image 
+[2019-07-04 00:53:26.669](thread id:  18016) <Debug   > -INFO : JAVI  "2.2.1"  Start... 
+[2019-07-04 07:15:06.318](thread id:  18016) <Debug   > "相机0掉线，请关闭软件并重启！" 
+[2019-07-04 08:29:41.051](thread id:  20204) <Debug   > -INFO : JAVI  "2.2.1"  Start... 
+[2019-07-04 08:29:45.335](thread id:  20204) <Debug   > -INFO: JAVI Closed. 
+[2019-07-04 08:37:25.835](thread id:  18572) <Debug   > -INFO : JAVI  "2.2.1"  Start... 
+[2019-07-04 08:40:17.065](thread id:  18572) <Debug   > -ERROR: Basler camera Trigger return false!  
+[2019-07-04 08:44:00.619](thread id:  24484) <Debug   > -INFO : JAVI  "2.2.1"  Start... 
+[2019-07-04 08:50:53.075](thread id:  24484) <Debug   > -INFO: JAVI Closed. 
+[2019-07-04 10:20:59.970](thread id:  18788) <Debug   > -INFO : JAVI  "2.2.1"  Start... 
+[2019-07-04 10:23:49.443](thread id:  18788) <Debug   > -INFO: JAVI Closed. 
+[2019-07-04 10:29:05.213](thread id:  22632) <Debug   > -INFO : JAVI  "2.2.1"  Start... 
+[2019-07-04 10:29:32.329](thread id:  22632) <Debug   > -ERROR: Basler camera  0 Grabbing has already been started. : RuntimeException thrown (file 'instantcameraimpl.h', line 720) 
+[2019-07-04 11:03:09.040](thread id:  22632) <Debug   > -INFO: JAVI Closed. 
+[2019-07-04 13:28:36.469](thread id:  11440) <Debug   > -INFO : JAVI  "2.2.1"  Start... 
+[2019-07-04 13:34:03.911](thread id:  11440) <Debug   > -INFO: JAVI Closed. 
+[2019-07-04 13:36:43.782](thread id:  15160) <Debug   > -INFO : JAVI  "2.2.1"  Start... 
+[2019-07-04 13:37:52.562](thread id:  15160) <Debug   > -INFO: JAVI Closed. 
+[2019-07-04 13:38:40.571](thread id:  12188) <Debug   > -INFO : JAVI  "2.2.1"  Start... 
+[2019-07-04 14:09:30.856](thread id:  12188) <Debug   > -INFO: JAVI Closed. 
+ Start... 
+[2019-07-04 14:04:42.274](thread id:  13724) <Debug   > -INFO: JAVI Closed. 
+[2019-07-04 14:04:49.703](thread id:   8672) <Debug   > -INFO : JAVI  "2.2.1"  Start... 
+[2019-07-04 14:04:54.864](thread id:   8672) <Debug   > -INFO: JAVI Closed. 
+[2019-07-04 14:08:49.531](thread id:   9732) <Debug   > -INFO : JAVI  "2.2.1"  Start... 
+[2019-07-04 14:09:03.602](thread id:   9732) <Debug   > -INFO: JAVI Closed. 
+[2019-07-04 14:10:17.980](thread id:  13804) <Debug   > -INFO : JAVI  "2.2.1"  Start... 
+[2019-07-04 15:24:22.961](thread id:  13804) <Debug   > -INFO: JAVI Closed. 
+[2019-07-04 15:51:23.227](thread id:   7112) <Debug   > -INFO : JAVI  "2.2.1"  Start... 
+[2019-07-04 16:05:55.250](thread id:   7112) <Debug   > -INFO: JAVI Closed. 
+ Start... 
+[2019-07-04 16:05:41.970](thread id:   1552) <Debug   > -INFO: JAVI Closed. 
+[2019-07-04 16:05:59.405](thread id:   9736) <Debug   > -INFO : JAVI  "2.2.1"  Start... 
+[2019-07-04 16:13:24.603](thread id:   9736) <Debug   > -INFO: JAVI Closed. 
+[2019-07-04 16:21:50.669](thread id:  15388) <Debug   > -INFO : JAVI  "2.2.1"  Start... 
+[2019-07-04 17:18:20.667](thread id:  15388) <Debug   > "相机0掉线，请关闭软件并重启！" 
+[2019-07-04 17:18:23.946](thread id:  15388) <Debug   > -INFO: JAVI Closed. 
+[2019-07-04 17:41:27.016](thread id:  11136) <Debug   > -INFO : JAVI  "2.2.1"  Start... 
+[2019-07-04 17:42:30.835](thread id:  11136) <Debug   > -INFO: JAVI Closed. 
+[2019-07-04 18:47:45.955](thread id:   3088) <Debug   > -INFO : JAVI  "2.2.1"  Start... 
+[2019-07-04 18:51:52.697](thread id:   3088) <Debug   > -INFO: JAVI Closed. 
